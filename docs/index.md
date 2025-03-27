@@ -28,9 +28,11 @@ Before you begin, please ensure that you already have the following software ins
 - a [GitHub account](https://github.com/signup) 
 
 ## Procedure Overview
-The main section of this documentation includes:
-- Configuration of a project through a GitHub Repository
-- Installation, activation, and deactivation of built-in extensions
+By reading the main section, you will learn to: 
+- Link a GitHub account to Visual Studio Code
+- Configure a GitHub Repository
+- Install, activate, and deactivate a built-in extension
+- Create a HTML page
 
 
 ## Typographical Conventions
@@ -76,19 +78,6 @@ index.html
 '''
 
 ## Notes and Warning Messages
-
-In this documentation, key message blocks will be highlighted to emphasize important information.
-
-- Warning: Highlights actions that require careful attention
-
-- Tip: Offers helpful suggestions or best practices
-
-- Important: Emphasizes key instructions
-
-- Example: Displays an example
-
-- Success: Confirms a successful action
-
 
 In this documentation, key message blocks will be highlighted to emphasize important information.
 
