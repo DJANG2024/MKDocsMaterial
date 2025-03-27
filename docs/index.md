@@ -39,43 +39,23 @@ By reading the main section, you will learn to:
 
 1.  Code snippets that are written in the VSC code editor will be shown like this:
 
-'''
+```
 for (let i = 1; i <= 10; i++) {
 console.log(i);
 }
-'''
+```
 
 2. Command line terminal instructions will be formatted like the following:
 
-'''
+```
 user-MacBook-Pro desktop % pwd
-'''
+```
 
 3. File names will be formatted like the following:
 
-'''
+```
 index.html
-'''
-
-1.  Code snippets that are written in the VSC code editor will be shown like this:
-
-'''
-for (let i = 1; i <= 10; i++) {
-console.log(i);
-}
-'''
-
-2. Command line terminal instructions will be formatted like the following:
-
-'''
-user-MacBook-Pro desktop % pwd
-'''
-
-3. File names will be formatted like the following:
-
-'''
-index.html
-'''
+```
 
 ## Notes and Warning Messages
 
