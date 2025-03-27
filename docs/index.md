@@ -21,13 +21,13 @@ Please note that, this documentation only provides instructions for setting up V
 ## Software Requirements
 [comment]: <> (Maybe rename this section to "Get Started" / "Prerequisite Requirements" because they are not just about the software)
 Before you begin, please ensure that you already have the following software installed and account set-up:
-- [Visual Studio Code](https://code.visualstudio.com/download) v1.98 or later
+- [Visual Studio Code](https://code.visualstudio.com/download) v1.98 or later 
 - [Git](https://git-scm.com/downloads/mac) v2.39 or later
-- a [GitHub account](https://github.com/signup)
+- a [GitHub account](https://github.com/signup) 
 
 
 ## Procedure Overview
-By reading the main section, you will learn to:
+By reading the main section, you will learn to: 
 - Link a GitHub account to Visual Studio Code
 - Configure a GitHub Repository
 - Install, activate, and deactivate a built-in extension
@@ -36,6 +36,37 @@ By reading the main section, you will learn to:
 
 ## Typographical Conventions
 
+1.  Code snippets that are written in the VSC code editor will be shown like this:
+
+'''
+for (let i = 1; i <= 10; i++) {
+console.log(i);
+}
+'''
+
+2. Command line terminal instructions will be formatted like the following:
+
+'''
+user-MacBook-Pro desktop % pwd
+'''
+
+3. File names will be formatted like the following:
+
+'''
+index.html
+'''
+
 
 ## Notes and Warning Messages
-In this documentation, the following will 
+
+In this documentation, key message blocks will be highlighted to emphasize important information.
+
+- Warning: Highlights actions that require careful attention
+
+- Tip: Offers helpful suggestions or best practices
+
+- Important: Emphasizes key instructions
+
+- Example: Displays an example
+
+- Success: Confirms a successful action
