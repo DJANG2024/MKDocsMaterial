@@ -1,21 +1,15 @@
-Introduction (2%) 
-Explains software’s intended use 
-Identifies intended user & knowledge level 
-Shows conventions used in document 
-States what instructions are for
-
 # Introduction
-This documentation will guide you through some basic set-up procedures through Visual Studio Code (Version 1.98.2). By reading this documentation, users will learn how to set up Visual Studio Code for developing their projects. We will also focus on how.. to collaborate with other developers through GitHub ... 
+This documentation provides a step-by-step guide for setting up [Visual Studio Code](https://code.visualstudio.com/) as an integrated development environment for collaborative projects. Tailored specifically for macOS users, it covers how to access and manage shared repositories on GitHub to collaborate with other developers. It also explains how to configure built-in extensions to facilitate program writing and enhance productivity.
 
-> Visual Studio Code is an integrated development environment (IDE) that facilitates projects
+> [Visual Studio Code](https://code.visualstudio.com/) is an integrated development environment (IDE) designed by Microsoft for developers to write, edit and debug code. It supports a wide range of programming languages, including JavaScript, Java, Python, and more.
 
-The documentation is designed for Mac users.
 
 ## Intended Users
-This documentation is targeted towards the following users:
+This documentation is targeted specifically towards the following users:
 
-- Beginner developers without prior software development experience
-- Intermediate developers who have never used Visual Studio Code
+- Beginner developers without software development experience
+- Intermediate developers with software development experience but have never used Visual Studio Code
+
 
 ## Prerequisite Knowledge
 The documentation assumes the following:
@@ -23,16 +17,21 @@ The documentation assumes the following:
 
 Please note that, this documentation only provides instructions for setting up Visual Studio Code as an Integrated Development Environment for your projects. It does not cover any knowledge related to programming languages.
 
+
 ## Software Requirements
-Before proceeding, please ensure that you have the following software installed on your device:
-- Visual Studio Code  // Add link here
-// specify for Mac user?
+[comment]: <> (Maybe rename this section to "Get Started" / "Prerequisite Requirements" because they are not just about the software)
+Before you begin, please ensure that you already have the following software installed and account set-up:
+- [Visual Studio Code](https://code.visualstudio.com/download) v1.98 or later
+- [Git](https://git-scm.com/downloads/mac) v2.39 or later
+- a [GitHub account](https://github.com/signup)
 
 
 ## Procedure Overview
-The main section of this documentation includes:
-- Configuration of a project through a GitHub Repository
-- Installation, activation, and deactivation of built-in extensions
+By reading the main section, you will learn to:
+- Link a GitHub account to Visual Studio Code
+- Configure a GitHub Repository
+- Install, activate, and deactivate a built-in extension
+- Create a HTML page
 
 
 ## Typographical Conventions

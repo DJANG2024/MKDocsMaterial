@@ -1,0 +1,1 @@
+Disclaimer: This is a not-for-profit school project for learning purpose. The aim is to learn how to write documentation for technical projects. All content and materials included in this project are solely for educational use.
