@@ -11,7 +11,7 @@ This documentation is targeted specifically towards the following users:
 - Intermediate developers with software development experience but have never used Visual Studio Code
 
 
-## Prerequisite Knowledge
+## Required Knowledge
 
 The documentation assumes the following:
 
@@ -20,9 +20,9 @@ The documentation assumes the following:
 Please note that, this documentation only provides instructions for setting up Visual Studio Code as an Integrated Development Environment for your projects. It does not cover any knowledge related to programming languages.
 
 
-## Software Requirements
-[comment]: <> (Maybe rename this section to "Get Started" / "Prerequisite Requirements" because they are not just about the software)
+## Prerequisite Requirements
 Before you begin, please ensure that you already have the following software installed and account set-up:
+
 - [Visual Studio Code](https://code.visualstudio.com/download) v1.98 or later 
 - [Git](https://git-scm.com/downloads/mac) v2.39 or later
 - a [GitHub account](https://github.com/signup) 
@@ -30,8 +30,9 @@ Before you begin, please ensure that you already have the following software ins
 
 ## Procedure Overview
 By reading the main section, you will learn to: 
+
 - Link a GitHub account to Visual Studio Code
-- Configure a GitHub Repository
+- Configure a GitHub repository
 - Install, activate, and deactivate a built-in extension
 
 
@@ -63,16 +64,16 @@ index.html
 In this documentation, key message blocks will be highlighted to emphasize important information.
 
 !!! warning "Warning"
-Highlights actions that require careful attention
+    Highlights actions that require careful attention
 
 !!! tip "Tip"
-Offers helpful suggestions or best practices
+    Offers helpful suggestions or best practices
 
 !!! important "Important"
-Emphasizes key instructions
+    Emphasizes key instructions
 
 !!! example "Example"
-Displays an example
+    Displays an example
 
 !!! success "Success"
-Confirms a successful action
+    Confirms a successful action
