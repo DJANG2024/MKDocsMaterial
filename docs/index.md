@@ -21,17 +21,18 @@ Please note that, this documentation only provides instructions for setting up V
 
 
 ## Prerequisite Requirements
-Before you begin, please ensure that you already have the following software installed and account set-up:
+Before starting, please make sure that you have the following:
 
-- [Visual Studio Code](https://code.visualstudio.com/download) v1.98 or later 
-- [Git](https://git-scm.com/downloads/mac) v2.39 or later
+- a computer with macOS operating system
+- [Visual Studio Code](https://code.visualstudio.com/download) v1.98+ installed
+- [Git](https://git-scm.com/downloads/mac) v2.39+ installed
 - a [GitHub account](https://github.com/signup) 
 
 
 ## Procedure Overview
 By reading the main section, you will learn to: 
 
-- Link a GitHub account to Visual Studio Code
+- Link a GitHub account to VS Code
 - Configure a GitHub repository
 - Install, activate, and deactivate a built-in extension
 
