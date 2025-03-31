@@ -13,8 +13,8 @@ Visual Studio Code provides a development environment that allows developers to 
 
 1. <b>Launch</b> Visual Studio Code.
 
-    !!! tip "Tip"
-        By launching VS Code, you will land on the welcome page unless you have opened a project. If you are directed to an existing project, close the project by clicking on [File] → [Close Folder]. This will lead you to the welcome page.
+!!! tip "Tip"
+    By launching VS Code, you will land on the welcome page unless you have opened a project. If you are directed to an existing project, close the project by clicking on [File] → [Close Folder]. This will lead you to the welcome page.
 
 2. <b>Select</b> [Clone Git Repository...].
 
@@ -24,7 +24,7 @@ Visual Studio Code provides a development environment that allows developers to 
 
 5. <b>Choose</b> the destination in your local computer where you would like to save the file to. 
 
-6. <b>Click</b> [Select as Repository Destination] buttoon to clone the GitHub repository to your local computer.
+6. <b>Click</b> [Select as Repository Destination] buttoon to clone the GitHub repository to your local <i>directory</i>.
 
 7. A pop-up window will appear after successfully cloning the project to your local computer. <b>Click</b> [Open] to open the downloaded file in VS Code.
 
@@ -36,12 +36,12 @@ Visual Studio Code provides a development environment that allows developers to 
 
 1. <b>Click</b> [View] → [Source Control].
 
-2. <b>Enter</b> your commit message into the textbox. 
+2. <b>Enter</b> your <i>git commit</i> message into the textbox. 
 
 3. <b>Click</b> [✓ Commit]
 
-4. Once you are ready to push your changes to the remote GitHub repository, click [⋯] → [Push] besides CHANGES.
+4. Once you are ready to push your changes to the remote GitHub repository, <b>click</b> [⋯] → [Push] besides CHANGES.
 
-    !!! tip "Tip"
-        The [⋯] button appears only when you hover over the SOURCE CONTROL panel.
+!!! tip "Tip"
+    The [⋯] button appears only when you hover over the SOURCE CONTROL panel.
 
