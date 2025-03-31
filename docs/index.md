@@ -1,5 +1,5 @@
 # Introduction
-This documentation provides a step-by-step guide for setting up [Visual Studio Code](https://code.visualstudio.com/) as an integrated development environment for collaborative projects. Tailored specifically for macOS users, it covers how to access and manage shared repositories on GitHub to collaborate with other developers. It also explains how to configure built-in extensions to facilitate program writing and enhance productivity.
+This documentation provides a step-by-step guide for setting up [Visual Studio Code](https://code.visualstudio.com/) as an <i>integrated development environment</i> for collaborative projects. Tailored specifically for macOS users, it covers how to access and manage shared repositories on GitHub to collaborate with other developers. It also explains how to configure built-in extensions to facilitate program writing and enhance productivity.
 
 > [Visual Studio Code](https://code.visualstudio.com/) is an integrated development environment (IDE) designed by Microsoft for developers to write, edit and debug code. It supports a wide range of programming languages, including JavaScript, Java, Python, and more.
 
@@ -15,9 +15,9 @@ This documentation is targeted specifically towards the following users:
 
 The documentation assumes the following:
 
-- Working knowledge of [Git](https://git-scm.com/) and [GitHub](https://github.com/)
+- Working knowledge of [Git](https://git-scm.com/) and [GitHub](https://github.com/) - you should be familiar with what Git and GitHub are for
 
-Please note that, this documentation only provides instructions for setting up Visual Studio Code as an Integrated Development Environment for your projects. It does not cover any knowledge related to programming languages.
+Please note that, this documentation only provides instructions for setting up Visual Studio Code as an integrated development environment for your projects. It does not cover any knowledge related to programming languages.
 
 
 ## Prerequisite Requirements
