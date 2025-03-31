@@ -30,6 +30,13 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
-   
-  
-  
+  - admonition
+  - pymdownx.details
+ 
+nav:
+  - Home: "index.md"
+  - Link a GitHub account to VS Code: "task1.md"
+  - Configure a GitHub Repository: "task2.md"
+  - Install, activate, and deactivate an extension: "task3.md"
+  - Troubleshooting: "Troubleshooting.md"
+  - Glossary: "Glossary.md"

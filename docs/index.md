@@ -27,12 +27,12 @@ Before you begin, please ensure that you already have the following software ins
 - [Git](https://git-scm.com/downloads/mac) v2.39 or later
 - a [GitHub account](https://github.com/signup) 
 
+
 ## Procedure Overview
 By reading the main section, you will learn to: 
 - Link a GitHub account to Visual Studio Code
 - Configure a GitHub Repository
 - Install, activate, and deactivate a built-in extension
-- Create a HTML page
 
 
 ## Typographical Conventions
@@ -57,16 +57,22 @@ user-MacBook-Pro desktop % pwd
 index.html
 ```
 
+
 ## Notes and Warning Messages
 
 In this documentation, key message blocks will be highlighted to emphasize important information.
 
-- Warning: Highlights actions that require careful attention
+!!! warning "Warning"
+Highlights actions that require careful attention
 
-- Tip: Offers helpful suggestions or best practices
+!!! tip "Tip"
+Offers helpful suggestions or best practices
 
-- Important: Emphasizes key instructions
+!!! important "Important"
+Emphasizes key instructions
 
-- Example: Displays an example
+!!! example "Example"
+Displays an example
 
-- Success: Confirms a successful action
+!!! success "Success"
+Confirms a successful action
