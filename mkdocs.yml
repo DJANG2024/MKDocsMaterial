@@ -35,7 +35,7 @@ markdown_extensions:
 nav:
   - Home: "index.md"
   - Link a GitHub account to VS Code: "task1.md"
-  - Configure a GitHub Repository: "task2.md"
+  - Configure a GitHub repository: "task2.md"
   - Install, activate, and deactivate an extension: "task3.md"
   - Troubleshooting: "Troubleshooting.md"
   - Glossary: "Glossary.md"

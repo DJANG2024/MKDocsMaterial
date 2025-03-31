@@ -15,7 +15,7 @@ This documentation is targeted specifically towards the following users:
 
 The documentation assumes the following:
 
-- Working knowledge of [Git](https://git-scm.com/) and [GitHub](https://github.com/) - you should be familiar with what Git and GitHub are for
+- Working knowledge of [Git](https://git-scm.com/) and [GitHub](https://github.com/) — you should be familiar with what Git and GitHub are, including basic concepts such as repository, commit, and version control
 
 Please note that, this documentation only provides instructions for setting up Visual Studio Code as an integrated development environment for your projects. It does not cover any knowledge related to programming languages.
 
@@ -43,7 +43,7 @@ This documentation uses the following typographical conventions:
 | Convention   |Explanation                                              | Example                                   |
 | ------------ |-------------------------------------------------------- | ----------------------------------------- |
 | <b>Bold</b>  | Indicates action items that you need to perform         | <b>Enter</b> the URL                      |
-| <i>Italic</i>| specifies terminology explained in Glossary section     | <i>Integrated Development Environment</i> |
+| <i>Italic</i>| Specifies terminology explained in Glossary section     | <i>Integrated Development Environment</i> |
 | []           | Denotes buttons and menu items                          | [Install]                                 |
 | →            | Seperates a series of buttons or menu levels            | [File] → [Save]                           |
 
