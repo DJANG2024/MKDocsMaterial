@@ -38,27 +38,14 @@ By reading the main section, you will learn to:
 
 
 ## Typographical Conventions
+This documentation uses the following typographical conventions:
 
-1.  Code snippets that are written in the VSC code editor will be shown like this:
-
-```
-for (let i = 1; i <= 10; i++) {
-console.log(i);
-}
-```
-
-2. Command line terminal instructions will be formatted like the following:
-
-```
-user-MacBook-Pro desktop % pwd
-```
-
-3. File names will be formatted like the following:
-
-```
-index.html
-```
-
+| Convention   |Explanation                                              | Example                                   |
+| ------------ |-------------------------------------------------------- | ----------------------------------------- |
+| <b>Bold</b>  | Indicates action items that you need to perform         | <b>Enter</b> the URL                      |
+| <i>Italic</i>| specifies terminology explained in Glossary section     | <i>Integrated Development Environment</i> |
+| []           | Denotes buttons and menu items                          | [Install]                                 |
+| →            | Seperates a series of buttons or menu levels            | [File] → [Save]                           |
 
 ## Notes and Warning Messages
 
