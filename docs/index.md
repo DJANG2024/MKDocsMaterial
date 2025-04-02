@@ -32,8 +32,8 @@ Before starting, please make sure that you have the following:
 ## Procedure Overview
 By reading the main section, you will learn to: 
 
-- Link a GitHub account to VS Code
-- Configure a GitHub repository
+- Customize keyboard shortcuts
+- Configure GitHub repositories
 - Install, enable, and disable third-party extensions
 
 
