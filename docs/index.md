@@ -1,5 +1,5 @@
 # Introduction
-This documentation provides a step-by-step guide for setting up [Visual Studio Code](https://code.visualstudio.com/) as an <i>integrated development environment</i> for collaborative projects. Tailored specifically for macOS users, it covers how to access and manage shared repositories on GitHub to collaborate with other developers. It also explains how to configure built-in extensions to facilitate program writing and enhance productivity.
+This documentation provides a step-by-step guide for setting up [Visual Studio Code](https://code.visualstudio.com/) as an <i>integrated development environment</i> for collaborative projects. Tailored specifically for macOS users, it covers how to access and manage shared repositories on GitHub to collaborate with other developers. It also explains how to configure third-party extensions to facilitate program writing and enhance productivity.
 
 > [Visual Studio Code](https://code.visualstudio.com/) is an integrated development environment (IDE) designed by Microsoft for developers to write, edit and debug code. It supports a wide range of programming languages, including JavaScript, Java, Python, and more.
 
@@ -23,7 +23,7 @@ Please note that, this documentation only provides instructions for setting up V
 ## Prerequisite Requirements
 Before starting, please make sure that you have the following:
 
-- a computer with macOS operating system
+- a computer with a macOS operating system
 - [Visual Studio Code](https://code.visualstudio.com/download) v1.98+ installed
 - [Git](https://git-scm.com/downloads/mac) v2.39+ installed
 - a [GitHub account](https://github.com/signup) 
@@ -34,7 +34,7 @@ By reading the main section, you will learn to:
 
 - Link a GitHub account to VS Code
 - Configure a GitHub repository
-- Install, activate, and deactivate a built-in extension
+- Install, enable, and disable third-party extensions
 
 
 ## Typographical Conventions
@@ -44,7 +44,7 @@ This documentation uses the following typographical conventions:
 | ------------ |-------------------------------------------------------- | ----------------------------------------- |
 | <b>Bold</b>  | Indicates action items that you need to perform         | <b>Enter</b> the URL                      |
 | <i>Italic</i>| Specifies terminology explained in Glossary section     | <i>Integrated Development Environment</i> |
-| []           | Denotes buttons and menu items                          | [Install]                                 |
+| [ ]           | Denotes buttons and menu items                          | [Install]                                 |
 | →            | Seperates a series of buttons or menu levels            | [File] → [Save]                           |
 
 ## Notes and Warning Messages

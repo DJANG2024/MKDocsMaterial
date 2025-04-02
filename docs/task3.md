@@ -8,14 +8,14 @@ Extensions in Visual Studio Code are add-ons that enhance functionality by provi
 2. <b>Select</b> the Extension Tab from the list
 
 !!! tip "Tip"
-To access the Extensions Marketplace shortcut, <b>Click</b> on the Visual Studio Code interface and select the Extension Tab on the left side navigation bar.
+    To access the Extensions Marketplace shortcut, <b>Click</b> on the Visual Studio Code interface and select the Extension Tab on the left side navigation bar.
 
 3. <b>Search</b> and browse through popular extensions using the extensions searchbar.
 
 4. <b>Select</b> an extension and then <b>click</b> on the install button
 
 !!! success "Success"
-Once the <i>Install</i> Button changes to an <i>Uninstall</i> button, you have successfully installed the extension
+    Once the <i>Install</i> Button changes to an <i>Uninstall</i> button, you have successfully installed the extension
 
 ### Uninstall an extension
 1. <b>Select</b> an extension that you would like to uninstall
@@ -28,8 +28,6 @@ Once the <i>Install</i> Button changes to an <i>Uninstall</i> button, you have s
 
 2. <b>Click</b> on the disable button
 
-!!! success "Success"
-Once the <i>Disable</i> Button changes to an <i>Enable</i> button, you have successfully disabled the extension
 
 ### Enable an extension
 
@@ -38,4 +36,4 @@ Once the <i>Disable</i> Button changes to an <i>Enable</i> button, you have succ
 2. <b>Click</b> on the Enable button
 
 !!! success "Success"
-Once the <i>Enable</i> Button changes to an <i>Disable</i> button, you have successfully enabled the extension
+    Once the <i>Enable</i> Button changes to an <i>Disable</i> button, you have successfully enabled the extension
