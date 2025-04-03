@@ -1,7 +1,8 @@
 | Terms                              | Explanations                                                                           |
 | ---------------------------------- | -------------------------------------------------------------------------------------- |
 | Integrated development environment | A software application that provides comprehensive facilities for software development |
-| Git Commit                         | A snapshot of your repository at a specific time which records your progress           |
+| Commit                             | A snapshot of your repository at a specific time which records your progress           |
+| Commit message                     | A message explaining the commit.                                                       |
 | Directory                          | A file system structure that organizes and stores files and other directories, also known as a folder.                                                                                       |
 | Hotkey                             | A combination of keys which will trigger a specific actions faster than using a mouse or other input devices  |
 | Extension                          | A small software package that enhances the functionality of Visual Studio Code by adding new features or integrations. |
