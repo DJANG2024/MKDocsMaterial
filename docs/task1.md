@@ -1,1 +1,0 @@
-## Link a GitHub Account to Visual Studio Code

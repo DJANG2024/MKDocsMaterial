@@ -19,4 +19,6 @@ Solution
 - Incorrect or missing GitHub credentials, authentication issues, or Git configuration errors.
 - Ensure your GitHub credentials are correctly set up in VS Code. Your Github can be linked through the VS Code Settings
 
+- Hotkeys Not Working after set-up
+- There may be key conflicts if you set up more than one actions for a same set of hotkeys. 
 
