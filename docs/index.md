@@ -1,5 +1,5 @@
 # Introduction
-This documentation provides a step-by-step guide for setting up [Visual Studio Code](https://code.visualstudio.com/) as an <i>integrated development environment</i> for collaborative projects. Tailored specifically for macOS users, it covers how to access and manage shared repositories on GitHub to collaborate with other developers. It also explains how to configure third-party extensions to facilitate program writing and enhance productivity.
+This documentation is a step-by-step guide for setting up [Visual Studio Code](https://code.visualstudio.com/) as an <i>integrated development environment</i> for collaborative projects. Tailored specifically for macOS users, it covers how to access shared repositories on GitHub to collaborate with other developers. It also explains how to configure keyboard shortcuts and third-party extensions to facilitate program writing and enhance productivity.
 
 > [Visual Studio Code](https://code.visualstudio.com/) is an integrated development environment (IDE) designed by Microsoft for developers to write, edit and debug code. It supports a wide range of programming languages, including JavaScript, Java, Python, and more.
 
@@ -21,15 +21,15 @@ Please note that, this documentation only provides instructions for setting up V
 
 
 ## Prerequisite Requirements
-Before starting, please make sure that you have the following:
+Before starting, please make sure you have the following:
 
-- a computer with a macOS operating system
+- a computer with macOS operating system
 - [Visual Studio Code](https://code.visualstudio.com/download) v1.98+ installed
 - [Git](https://git-scm.com/downloads/mac) v2.39+ installed
-- a [GitHub account](https://github.com/signup) 
+- a [GitHub](https://github.com/signup) account
 
 
-## Procedure Overview
+## Content Overview
 By reading the main section, you will learn to: 
 
 - Customize keyboard shortcuts
@@ -59,9 +59,6 @@ In this documentation, key message blocks will be highlighted to emphasize impor
 
 !!! important "Important"
     Emphasizes key instructions
-
-!!! example "Example"
-    Displays an example
 
 !!! success "Success"
     Confirms a successful action
