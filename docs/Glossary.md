@@ -1,4 +1,5 @@
 The following is arranged in alphabetical order:
+
 | Terms                              | Explanations                                                                           |
 | ---------------------------------- | -------------------------------------------------------------------------------------- |
 | Commit                             | A snapshot of your repository at a specific time which records your progress           |
