@@ -1,12 +1,10 @@
-## Overview
-
 Visual Studio Code provides a development environment which allows developers to share and collaborate on code with ease. This guide outlines the steps to configure an existing GitHub repository on your local computer, setting up a seamless working environment for remote collaboration on your projects.
 
 !!! important
     Before configuring a GitHub repository on your local computer, make sure your GitHub account is linked to VS Code and that you have the GitHub repository URL ready.
 
 
-### Clone a GitHub repository to your local computer
+## Clone a GitHub Repository to Local Computer
 
 1. **Click** [Clone Git Repository] on the Welcome tab.
 
@@ -24,7 +22,7 @@ Visual Studio Code provides a development environment which allows developers to
 6. Once the cloning is successful, a pop-up window will appear. **Click** [Open] to open the downloaded repository in VS Code.
 
 
-### Push to a GitHub repository from your local computer
+## Push to a GitHub Repository from Local Computer
 
 !!! warning "Warning"
     Your <i>commits</i> will be visible to anyone with access to the shared repository. Once pushed, your commits cannot be withdrawn or undone.

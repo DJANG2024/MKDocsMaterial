@@ -1,8 +1,6 @@
-## Overview
-
 Visual Studio Code provides the flexibility of customizing keyboard shortcuts, allowing you to tailor the <i>hotkeys</i> to your preferences. By default, VS Code bundles pre-defined shortcuts for common actions when installed. This instruction guides you through the process of adding, changing, and removing keyboard shortcuts, helping you optimize your user experience and enhance productivity.
 
-### Customize a keyboard shortcut
+## Customize a Keyboard Shortcut
 
 1. **Click** [Code] → [Settings] → [Keyboard Shortcuts] to open the Keyboard Shortcuts tab.
 
@@ -17,7 +15,7 @@ Visual Studio Code provides the flexibility of customizing keyboard shortcuts, a
 
 6. **Enter** your desired key combination for the selected action if your are adding or changing keybinding, then **press** [Enter] to confirm.
 
-### Solve a key conflict
+## Resolve a Key Conflict
 
 !!! important "Important"
     Changing keyboard shortcuts may sometimes causes key conflicts where more than one action is assigned to the same key combination. If your keyboard shortcuts are malfunctioning, following this section to solve the issue.

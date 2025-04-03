@@ -1,7 +1,6 @@
-## Overview
 Extensions in Visual Studio Code are add-ons that enhance functionality by providing support for additional languages, debugging tools, themes, and integrations with external services. The Extensions Marketplace is a built-in platform where users can explore, install, and manage these extensions to customize their development environment.
 
-### Install Third-Party Extensions
+## Install a Third-Party Extension
 
 1 . <b>Open</b> Visual Studio Code and select the View tab on your machines top navigation bar
 
@@ -34,7 +33,7 @@ Extensions in Visual Studio Code are add-ons that enhance functionality by provi
 !!! success "Success"
     Once the <i>Install</i> Button changes to an <i>Uninstall</i> button, you have successfully installed the extension
 
-### Uninstall an extension
+## Uninstall an Extension
 
 5 . <b>Select</b> an extension that you would like to uninstall
 
@@ -45,7 +44,7 @@ Extensions in Visual Studio Code are add-ons that enhance functionality by provi
   <figcaption>Image caption</figcaption>
 </figure>
 
-### Disable an extension
+## Disable an Extension
 
 7 . <b>Select</b> an extension that you would like to deactivate
 
@@ -56,7 +55,7 @@ Extensions in Visual Studio Code are add-ons that enhance functionality by provi
   <figcaption>Image caption</figcaption>
 </figure>
 
-### Enable an extension
+## Enable an Extension
 
 9 . <b>Select</b> an extension that you would like to Enable
 
