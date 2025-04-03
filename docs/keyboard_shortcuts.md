@@ -29,3 +29,6 @@ Visual Studio Code provides the flexibility of customizing keyboard shortcuts, a
 4. **Click** [Show Same Keybindings] to generate a list of all actions binded to the same hotkey.
 
 5. **Review** the list to ensure your chosen hotkey is not already in use by other action. If there is a key conflict, **follow** the steps from the previous section to remove or change the conflicting keybinding.
+
+!!! success "Success"
+    Congratulations! You have successfully learned how to set up hotkeys for VS Code to boost up your productivity.
