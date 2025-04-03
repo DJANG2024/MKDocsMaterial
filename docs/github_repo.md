@@ -3,41 +3,39 @@
 Visual Studio Code provides a development environment which allows developers to share and collaborate on code with ease. This guide outlines the steps to configure an existing GitHub repository on your local computer, setting up a seamless working environment for remote collaboration on your projects.
 
 !!! important
-    Before you configure a GitHub repository on your local computer, make sure that you have:
-    - linked your GitHub account to your VS Code
-    - had the GitHub repository URL ready
+    Before configuring a GitHub repository on your local computer, make sure your GitHub account is linked to VS Code and that you have the GitHub repository URL ready.
 
 
 ### Clone a GitHub repository to your local computer
 
-1. **Select** [Clone Git Repository...] on the welcome page.
+1. **Click** [Clone Git Repository] on the Welcome tab.
 
 !!! tip "Tip"
-    By launching VS Code, you will land on the welcome page unless you have opened a project. If you are directed to an existing project, close the project by clicking on [File] → [Close Folder]. This will lead you to the welcome page.
+    By launching VS Code, you will land on the Welcome tab unless you have opened a project. If you are directed to an existing project, close it by clicking [File] → [Close Folder] to return to the Welcome tab.
 
 2. **Paste** or **enter** the GitHub repository URL into the text bar.
 
-3. **Click** [Clone from URL] from the dropdown menu.
+3. **Select** [Clone from URL] from the dropdown menu.
 
-4. **Choose** the destination in your local computer where you would like to save the file to. 
+4. **Choose** a <i>local direcotory</i> to save the repository to. 
 
-5. **Click** [Select as Repository Destination] buttoon to clone the GitHub repository to your local **directory**.
+5. **Click** [Select as Repository Destination] buttoon to begin the cloning process.
 
-6. A pop-up window will appear after successfully cloning the project to your local computer. **Click** [Open] to open the downloaded file in VS Code.
+6. Once the cloning is successful, a pop-up window will appear. **Click** [Open] to open the downloaded repository in VS Code.
 
 
 ### Push to a GitHub repository from your local computer
 
 !!! warning "Warning"
-    Your <i>commits</i> will be made available to all the viewers of the shared repositories. You cannot withdraw your commits once pushed. Make sure your commits are accurate before you push them to GitHub repositories.
+    Your <i>commits</i> will be visible to anyone with access to the shared repository. Once pushed, your commits cannot be withdrawn or undone.
 
 1. **Click** [View] → [Source Control] to open the Source Control panel.
 
 2. **Enter** your <i>commit message</i> into the textbox. 
 
-3. **Click** [✓ Commit]
+3. **Click** [✔ Commit] to commit your edits.
 
-4. Once ready, **click** [⋯] → [Push] besides CHANGES to push your changes to the remote GitHub repository.
+4. When ready, **click** [⋯] → [Push] on the Source Control panel to push your changes to the remote GitHub repository.
 
 !!! tip "Tip"
     The [⋯] button appears only when you hover over the Source Control panel.

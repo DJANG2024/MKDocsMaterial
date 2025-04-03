@@ -1,30 +1,33 @@
 ## Overview
 
-Visual Studio Code provides the flexibility of customizing keyboard shortcuts, allowing you to tailor the <i>hotkeys</i> to your preferences. By default, VS Code bundles pre-defined shortcuts for common actions with installation. This instruction guides you through the process of adding, changing, and removing keyboard shortcuts, helping you optimize your user experience and enhance productivity.
+Visual Studio Code provides the flexibility of customizing keyboard shortcuts, allowing you to tailor the <i>hotkeys</i> to your preferences. By default, VS Code bundles pre-defined shortcuts for common actions when installed. This instruction guides you through the process of adding, changing, and removing keyboard shortcuts, helping you optimize your user experience and enhance productivity.
 
-### Customize keyboard shortcut
+### Customize a keyboard shortcut
 
-1. **Select** [Code] → [Settings] → [Keyboard Shortcuts] to open up the "Keyboard Shortcuts" tab.
+1. **Click** [Code] → [Settings] → [Keyboard Shortcuts] to open the Keyboard Shortcuts tab.
 
-3. **Enter** a desired action you would like to custommize keyboard shortcut into the search bar on "Keyboard Shortcuts" tab.
+3. **Type** the action you would like to customize into the search bar (e.g. "Save", "Open File", etc).
  
-4. **Right-click** the action that you would like to change.
+4. **Right-click** on the action you wish to modify.
 
-5. **Select** [Change Keybinding], [Add Keybinding], or [Remove Keybinding] whether you would like to change or delete. 
+5. **Select** one of the following options:
+    - [Change Keybinding] — to modify the current hotkey; or
+    - [Add Keybinding] — to assign a new hotkey; or
+    - [Remove Keybinding] — to remove the existing hotkey.
 
-6. **Enter** Enter your desired hotkey(s) for the action if your are adding or changing keybinding, and then **press** [Enter] key.
+6. **Enter** your desired key combination for the selected action if your are adding or changing keybinding, then **press** [Enter] to confirm.
 
-### Check and solve key conflicts
+### Solve a key conflict
 
 !!! important "Important"
-    Changing keyboard shortcuts may sometimes causes key conflicts where more than one action is binded to a set of keys. Read this section if your keyboard shortcuts are malfunctioning. 
+    Changing keyboard shortcuts may sometimes causes key conflicts where more than one action is assigned to the same key combination. If your keyboard shortcuts are malfunctioning, following this section to solve the issue.
 
 1. **Select** [Code] → [Settings] → [Keyboard Shortcuts].
 
-2. **Click** [keyboard] button on the right-hand side of the search bar.
+2. **Click** [keyboard] icon on the right-hand side of the search bar.
 
-3. **Right-click** under Key Binding to open up the menu.
+3. **Right-click** under the Keybinding column to open a menu.
 
-4. **Select** [Show Same Keybindings]. This generates a full list of actions binded to the hotkeys.
+4. **Click** [Show Same Keybindings] to generate a list of all actions binded to the same hotkey.
 
-5. Make sure your hotkey does not conflict with others. If it does, **follow** the steps in the previous section to remove the keybinding that is no longer in use.
+5. **Review** the list to ensure your chosen hotkey is not already in use by other action. If there is a key conflict, **follow** the steps from the previous section to remove or change the conflicting keybinding.
