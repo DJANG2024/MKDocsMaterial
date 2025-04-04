@@ -1,4 +1,4 @@
-This section explains the technical terms that have been covered in this documentation. The following terms are arranged in alphabetical order:
+This section explains the technical terms that have been used in this documentation. The following terms are arranged in alphabetical order:
 
 | Terms                              | Explanations                                                                           |
 | ---------------------------------- | -------------------------------------------------------------------------------------- |
