@@ -42,3 +42,6 @@ nav:
   - Customize keyboard shortcuts: "keyboard_shortcuts.md"
   - Troubleshooting: "Troubleshooting.md"
   - Glossary: "Glossary.md"
+  
+extra_css:
+  - style.css
