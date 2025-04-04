@@ -13,7 +13,7 @@ Visual Studio Code provides a development environment which allows developers to
 </figure>
 
 !!! tip "Tip"
-    By launching VS Code, you will land on the Welcome tab unless you have opened a project. If you are directed to an existing project, close it by clicking [File] → [Close Folder] to return to the Welcome tab.
+    By launching VS Code, you will land on the Welcome tab unless you have opened a project. If you are directed to an existing project, close it by clicking <button>File</button> → [Close Folder] to return to the Welcome tab.
 
 2. **Paste** or **enter** the GitHub repository URL into the text bar.
 
@@ -62,5 +62,6 @@ Visual Studio Code provides a development environment which allows developers to
 !!! tip "Tip"
     The [⋯] button appears only when you hover over the Source Control panel.
 
+
 !!! success "Success"
-    Congratulations! You have successfully learned how to configure a GitHub repository on your local computer to collaborate with other developers through VS Code.
+    Congratulations! You can now begin collaborating with other developers in VS Code by cloning a GitHub repository to and pushing your progress from your local computer.
