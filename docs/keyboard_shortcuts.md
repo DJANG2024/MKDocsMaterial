@@ -4,16 +4,18 @@ Visual Studio Code provides the flexibility of customizing keyboard shortcuts, a
 
 1. **Click** [Code] → [Settings] → [Keyboard Shortcuts] to open the Keyboard Shortcuts tab.
 
-3. **Type** the action you would like to customize into the search bar (e.g. "Save", "Open File", etc).
- 
-4. **Right-click** on the action you wish to modify.
+<img src="/docs/Assets/img3.1.gif" width="50%"/>
 
-5. **Select** one of the following options:
+2. **Type** the action you would like to customize into the search bar (e.g. "Save", "Open File", etc).
+ 
+3. **Right-click** on the action you wish to modify.
+
+4. **Select** one of the following options:
     - [Change Keybinding] — to modify the current hotkey; or
     - [Add Keybinding] — to assign a new hotkey; or
     - [Remove Keybinding] — to remove the existing hotkey.
 
-6. **Enter** your desired key combination for the selected action if your are adding or changing keybinding, then **press** [Enter] to confirm.
+5. **Enter** your desired key combination for the selected action if your are adding or changing keybinding, then **press** [Enter] to confirm.
 
 ## Resolve a Key Conflict
 

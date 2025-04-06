@@ -10,8 +10,8 @@ Visual Studio Code provides a development environment which allows developers to
 
 ![Image title](Assets/img1.1.gif){ width="400" }
 
-    !!! tip "Tip"
-        By launching VS Code, you will land on the Welcome tab unless you have opened a project. If you are directed to an existing project, close it by clicking [File] → [Close Folder] to return to the Welcome tab.
+!!! tip "Tip"
+    By launching VS Code, you will land on the Welcome tab unless you have opened a project. If you are directed to an existing project, close it by clicking [File] → [Close Folder] to return to the Welcome tab.
 
 2. **Paste** or **enter** the GitHub repository URL into the text bar.
 
