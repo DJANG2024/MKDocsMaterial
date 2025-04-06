@@ -29,7 +29,7 @@ Visual Studio Code provides a development environment which allows developers to
   ![Image title](Assets/1.4.jpeg){ width="450" }
 </figure>
 
-5. **Click** [Select as Repository Destination] buttoon to begin the cloning process.
+5. **Click** [Select as Repository Destination] button to begin the cloning process.
 <figure markdown="span">
   ![Image title](Assets/1.5.jpeg){ width="400" }
 </figure>

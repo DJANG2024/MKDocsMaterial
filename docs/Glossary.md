@@ -1,4 +1,6 @@
-The following is arranged in alphabetical order:
+
+The Glossary will outline some of they key words and concepts that have been used throughout the documentation. The following has been arranged in alphabetical order:
+
 
 | Terms                              | Explanations                                                                           |
 | ---------------------------------- | -------------------------------------------------------------------------------------- |
@@ -10,5 +12,6 @@ The following is arranged in alphabetical order:
 | Extension                          | A small software package that enhances the functionality of Visual Studio Code by adding new features or integrations. |
 | Extensions Marketplace             | A built-in platform in Visual Studio Code where users can browse, install, and manage extensions. |
 | Hotkey                             | A combination of keys which will trigger a specific actions faster than using a mouse or other input devices  |
+| Install (Extension)                          | The process of adding an extension or software from an application or system. |
 | Integrated development environment | A software application that provides comprehensive facilities for software development |
 | Uninstall (Extension)                          | The process of removing an extension or software from an application or system. |
