@@ -8,10 +8,12 @@ Visual Studio Code provides a development environment which allows developers to
 
 1. **Click** [Clone Git Repository] on the Welcome tab.
 
-![image](Assets/img1.1.gif "[Clone Git Repository] button")
+    <figure markdown="span">
+    ![image](Assets/img1.1.gif "[Clone Git Repository] button") { width="400"}
+    </figure>
 
-!!! tip "Tip"
-    By launching VS Code, you will land on the Welcome tab unless you have opened a project. If you are directed to an existing project, close it by clicking [File] → [Close Folder] to return to the Welcome tab.
+    !!! tip "Tip"
+        By launching VS Code, you will land on the Welcome tab unless you have opened a project. If you are directed to an existing project, close it by clicking [File] → [Close Folder] to return to the Welcome tab.
 
 2. **Paste** or **enter** the GitHub repository URL into the text bar.
 
