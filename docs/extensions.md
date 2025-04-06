@@ -53,7 +53,7 @@ Extensions in Visual Studio Code are add-ons that enhance functionality by provi
 </figure>
 
 
-9 . <b>Select</b> an <i>extension</i> that you would like to </i>enable</i>.
+9 . <b>Select</b> an <i>extension</i> that you would like to <i>enable</i>.
 
 10 . <b>Click</b> on the [Enable] button.
 
