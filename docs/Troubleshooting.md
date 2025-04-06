@@ -1,4 +1,4 @@
-Troubleshooting in Visual Studio Code involves identifying and diagnosing problems that prevent the application from functioning properly. Here are some common issues or problems that can be resolved:
+This section identifies and diagnoses technical issues that may prevent the application from functioning properly. Below are some common problems you might have encountered:
 
 | Issue                                | Possible Causes                                                                                     | Solutions                                                                 |
 |--------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
