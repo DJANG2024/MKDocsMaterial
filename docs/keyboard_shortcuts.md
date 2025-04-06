@@ -1,4 +1,4 @@
-Visual Studio Code provides the flexibility of customizing keyboard shortcuts, allowing you to tailor the <i>hotkeys</i> to your preferences. By default, VS Code bundles pre-defined shortcuts for common actions when installed. This instruction guides you through the process of adding, changing, and removing keyboard shortcuts, helping you optimize your user experience and enhance productivity.
+Visual Studio Code provides the flexibility of customizing keyboard shortcuts, allowing you to tailor the <i>hotkeys</i> to your preferences. By default, VS Code bundles pre-defined shortcuts for common actions when installed. This instruction guides you through the process of customizing the <i>keybinding</i>, helping you optimize your user experience and enhance productivity.
 
 ## Customize a Keyboard Shortcut
 
@@ -38,7 +38,7 @@ Visual Studio Code provides the flexibility of customizing keyboard shortcuts, a
 ## Resolve a Key Conflict
 
 !!! important "Important"
-    Changing keyboard shortcuts may sometimes causes key conflicts where more than one action is assigned to the same key combination. If your keyboard shortcuts are malfunctioning, following this section to solve the issue.
+    Changing keyboard shortcuts may sometimes causes <i>key conflicts</i> where more than one action is assigned to the same key combination. If your keyboard shortcuts are malfunctioning, following this section to solve the issue.
 
 1. **Select** [Code] → [Settings] → [Keyboard Shortcuts] to open the Keyboard Shortcuts tab.
 
@@ -59,7 +59,7 @@ Visual Studio Code provides the flexibility of customizing keyboard shortcuts, a
     ![Image title](Assets/img3.7.gif){ width="700" }
     </figure>
 
-5. **Review** the list to ensure your chosen hotkey is not already in use by other action. If there is a key conflict, **follow** the steps from the previous section to remove or change the conflicting keybinding.
+5. **Review** the list to ensure your chosen hotkey is not already in use by other action. If there is a key conflict, **follow** the steps from the above section to remove or change the conflicting keybinding.
 
 !!! success "Success"
     Cheers! You have successfully learned how to set up hotkeys for VS Code to boost up your productivity.
