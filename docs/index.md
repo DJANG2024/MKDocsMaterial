@@ -42,7 +42,7 @@ This section outlines the styling and formatting that will be used throughout th
 | Convention   |Explanation                                             | Example                                   |
 | ------------ |--------------------------------------------------------| ----------------------------------------- |
 | **Bold** | Indicates action items that you need to perform            | <b>Enter</b> the URL                      |
-| <i>Italic</i>| Specifies terminology explained in Glossary section    | <i>Integrated Development Environment</i> |
+| <i>Italic</i>| Specifies terminology explained in Glossary            | <i>Integrated Development Environment</i> |
 | [ ]          | Denotes buttons and menu items                         | [Install]                                 |
 | →            | Seperates a series of buttons or menu items            | [File] → [Save]                           |
 

@@ -1,9 +1,12 @@
 This section identifies and diagnoses technical issues that may prevent the application from functioning properly. Below are some common problems you might have encountered:
 
-| Issue                                | Possible Causes                                                                                     | Solutions                                                                 |
+| Issues                              | Possible Causes                                                                                     | Solutions                                                                 |
 |--------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Git Not Working in VS Code           | Git is not installed, misconfigured, or not added to the system path                               | Ensure Git is installed by running `git --version` in the terminal, configure it properly, and restart VS Code |
-| GitHub Account Not Linking           | Incorrect or missing GitHub credentials, authentication issues, or Git configuration errors        | Ensure your GitHub credentials are correctly set up in VS Code. Your GitHub can be linked through the VS Code Settings |
-| Extensions Not Working               | Corrupted installation, conflicting extensions, outdated version, or system issues                | Disable and re-enable the extension, check for updates, restart the application |
-| Hotkeys Not Working after set-up     | There may be key conflicts if you set up more than one action for the same set of hotkeys          | Check and resolve key conflicts in the keyboard shortcuts settings (`Ctrl+K Ctrl+S`) in VS Code |
+| Unable to clone a GitHub repository to a local directory | GitHyb repository URL is incorrect or not properly formatted. | Double-check the repository URL. Ensure it ends with `.git`. |
+| "Repository Already Exists" or "Directory Not Empty" errors | The destination directory in your local computer contains conflicting files. | Clear the destination directory before cloning the repository. |
+| Unable to push commits to GitHub         | Your GitHub account is not configured properly in VS Code.         | Ensure your GitHub credentials are correctly set up in VS Code. If not, click on [View] → [Command Palette], and then select [GitHub: Sign in to GitHub] to reconfigure your GitHub account in VS Code. |
+| | You do not have the write access to the remote repository. | Check with the repository owner to confirm your access rights.
+| Extensions not working               | There are corrupted installation, conflicting extensions, outdated version, or system issues.                | Disable and re-enable the extension, check for updates, and restart the application. |
+| Keyboard shortcuts not working    | Multiple actions are assigned to the same key combination.          | Resolve the key conflicts as instructed in [Customized Keyboard Shortcuts](keyboard_shortcuts.md). |
+| Unable to remove a keybinding | There are bugs or technical issues with the keybinding configuration. |  Go to [File] → [Preferences] → [Keyboard Shortcuts] → [Open Keyboard Shortcuts (JSON)] to manually remove the keybinding from the keybindings.json file.
 

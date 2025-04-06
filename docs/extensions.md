@@ -10,7 +10,9 @@
 
 !!! tip "Tip"
     Two other ways to access the VS Code <i>Extensions Marketplace</i> are by: 
+
     i. Keyboard Shortcut: <b>Press</b> ⇧ &#8984 X  on your keyboard
+
     ii. Activity Bar: <b>Click</b> the [Extensions] icon (with four squares as shown in the above image) on the activity bar.
 
 2. <b>Type</b> the name of the extension you wish to install into the searchbar.
@@ -44,7 +46,7 @@
     ![Image title](Assets/img2.5.gif){ width="350" }
     </figure>
 
-3. <b>Select</b> the [Disable], [Enable] or [Uninstall] button.
+3. <b>Select</b> the [Disable], [Enable] or [Uninstall] button on the information page.
 
     <figure markdown="span">
     ![Image title](Assets/img2.6.gif){ width="600" }
