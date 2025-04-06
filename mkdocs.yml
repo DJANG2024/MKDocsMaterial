@@ -37,8 +37,8 @@ markdown_extensions:
 
 nav:
   - Home: "index.md"
-  - Configure GitHub repositories: "github_repo.md"
-  - Install, activate, and deactivate third-party extensions: "extensions.md"
-  - Customize keyboard shortcuts: "keyboard_shortcuts.md"
+  - Configure GitHub Repositories: "github_repo.md"
+  - Set up Third-party Extensions: "extensions.md"
+  - Customize Keyboard Shortcuts: "keyboard_shortcuts.md"
   - Troubleshooting: "Troubleshooting.md"
   - Glossary: "Glossary.md"

@@ -32,7 +32,7 @@ Before starting, please make sure you have the following:
 By reading this documentation, you will learn to: 
 
 - Configure GitHub repositories
-- Install, enable, and disable third-party extensions
+- Set up third-party extensions
 - Customize keyboard shortcuts
 
 
