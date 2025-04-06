@@ -1,70 +1,63 @@
-Extensions in Visual Studio Code are add-ons that enhance functionality by providing support for additional languages, debugging tools, themes, and integrations with external services. The <i>Extensions Marketplace</i> is a built-in platform where users can explore, <i>install</i>, and manage these extensions to customize their development environment.
+<i>Extensions</i> in Visual Studio Code are add-ons that enhance functionality by providing support for additional languages, debugging tools, themes, and integrations with external services. The <i>Extensions Marketplace</i> is a built-in platform where users can explore and manage these extensions to customize their development environment.
 
 ## Install a Third-Party Extension
 
-1 . <b>Open</b> Visual Studio Code, and <b>select</b> [View] on the top navigation bar.
+1. <b>Click</b> [View] → [Extension] to open the Extensions Marketplace.
 
-<figure markdown="span">
-  ![Image title](Assets/task3.1.png){ width="600" }
-</figure>
-
-2 . <b>Select</b> [Extension] from the dropdown menu.
-
-<figure markdown="span">
-  ![Image title](Assets/task3.2.png){ width="600" }
-</figure>
+    <figure markdown="span">
+    ![Image title](Assets/img2.1.gif){ width="550" }
+    </figure>
 
 !!! tip "Tip"
     Two other ways to access the VS Code <i>Extensions Marketplace</i> are by: 
-    
-    1) VSC Activity Bar: On the VS Code activity bar select the icon with four squares.
-    
-    2) Keyboard Shortcut: On your keyboard <b>press</b> ⇧ &#8984 X
+    i. Keyboard Shortcut: <b>Press</b> ⇧ &#8984 X  on your keyboard
+    ii. Activity Bar: <b>Click</b> the [Extensions] icon (with four squares as shown in the above image) on the activity bar.
 
-<figure markdown="span">
-  ![Image title](Assets/task3.3.png){ width="200" }
-</figure>
+2. <b>Type</b> the name of the extension you wish like to install into the searchbar.
 
-3 . <b>Search</b> and browse through popular <i>extensions</i> using the extensions searchbar.
+    <figure markdown="span">
+    ![Image title](Assets/img2.2.gif){ width="350" }
+    </figure>
 
-4 . <b>Select</b> an <i>extension</i> and then <b>click</b> [Install].
+3. <b>Select</b> an extension to open its information page.
 
-!!! success "Success"
-    Once the [Install] Button changes to an [Uninstall] button, you have successfully installed the extension.
+    <figure markdown="span">
+    ![Image title](Assets/img2.3.gif){ width="700" }
+    </figure>
 
-## Uninstall an Extension
+4. <b>Click</b> the [Install] button under the extension name. Once the [Install] Button changes to an [Uninstall] button, you have successfully installed the extension.
 
-5 . <b>Select</b> an <i>extension</i> that you would like to <i>uninstall</i>.
+    <figure markdown="span">
+    ![Image title](Assets/img2.4.gif){ width="350" }
+    </figure>
 
-6 . <b>Click</b> on the [Uninstall] button.
+!!! tip "Tip"
+    When the installation completes, the newly installed extension will be enabled by default.
 
-<figure markdown="span">
-  ![Image title](Assets/task3.4.png){ width="100" }
-</figure>
+## Disable, Enable and Uninstall an Extension
 
-## Disable Or Enable An Extension After Installation 
+1. <b>Select</b> [View] → [Extension] to open the Extensions Marketplace.
 
-7 . <b>Select</b> an <i>extension</i> that you would like to <i>disable</i>.
+2. <b>Click</b> [Installed] to expand the dropdown menu, then <b>select</b> the installed extension to view its information page.  
 
-8 . <b>Click</b> on the [Disable] button.
+3. <b>Select</b> he [Disable], [Enable] or [Uninstall] button.
+
+## Modify Extension Settings 
+
+!!! tip "Tip"
+    Modifying the extension settings may provide you a more personalized experience that suits your work habits.
+
+1. <b>Follow</b> the above section to open the Installed dropdown menu.
+
+2. <b>Right-click</b> the extension whose settings you wish to modify.
+
+3. <b>Select</b> [Settings] to open the setting page for that extension.
+
+4. <b>Change</b> the settings as needed to tailor to your preference.
 
 <figure markdown="span">
   ![Image title](Assets/task3.5.png){ width="100" }
 </figure>
 
-
-9 . <b>Select</b> an <i>extension</i> that you would like to <i>enable</i>.
-
-10 . <b>Click</b> on the [Enable] button.
-
-<figure markdown="span">
-  ![Image title](Assets/task3.6.png){ width="100" }
-</figure>
-
-<br />
-
-!!! tip "Tip"
-    Once the [Enable] button changes to a [Disable] button, you have successfully <i>enabled</i> the <i>extension</i>.
-
 !!! success "Success"
-    Congratulations! You have successfully learned how to install and configure extensions so you can create your own personalized development environment.
+    Hurrah! You can now manage your own extensions to personalize your development environment and enhance your productivity.

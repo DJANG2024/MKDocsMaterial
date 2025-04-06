@@ -8,7 +8,7 @@ Visual Studio Code provides the flexibility of customizing keyboard shortcuts, a
     ![Image title](Assets/img3.1.gif){ width="600" }
     </figure>
 
-2. **Type** the action you would like to customize into the search bar (e.g. "Save", "Open File", etc).
+2. **Type** the action you would like to customize into the searchbar (e.g. "Save", "Open File", etc).
  
     <figure markdown="span">
     ![Image title](Assets/img3.2.gif){ width="650" }
@@ -42,10 +42,7 @@ Visual Studio Code provides the flexibility of customizing keyboard shortcuts, a
 
 1. **Select** [Code] → [Settings] → [Keyboard Shortcuts] to open the Keyboard Shortcuts tab.
 
-2. **Type** the action that is malfunctioning into the search bar.
-
-!!! tip "Tip"
-    You can also click on the [Keyboard] symbol on the search bar to search by key combinations instead of actions.
+2. **Type** the action that is malfunctioning into the searchbar.
 
 3. **Right-click** the malfunctioning action to open a menu.
 
@@ -62,4 +59,4 @@ Visual Studio Code provides the flexibility of customizing keyboard shortcuts, a
 5. **Review** the list to ensure your chosen hotkey is not already in use by other action. If there is a key conflict, **follow** the steps from the above section to remove or change the conflicting keybinding.
 
 !!! success "Success"
-    Cheers! You have successfully learned how to set up hotkeys for VS Code to boost up your productivity.
+    Cheers! You have successfully learned how to set up hotkeys in VS Code to save your time and boost up your productivity.
