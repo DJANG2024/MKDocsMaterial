@@ -5,7 +5,7 @@ This documentation is a step-by-step guide for setting up [Visual Studio Code](h
 
 
 ## Intended Users
-This documentation is targeted specifically towards the following users:
+This guide is targeted specifically towards the following users:
 
 - Beginner developers without software development experience
 - Intermediate developers with software development experience but have never used Visual Studio Code
@@ -14,7 +14,7 @@ This documentation is targeted specifically towards the following users:
 ## Required Knowledge
 The documentation assumes the following:
 
-- Working knowledge of [Git](https://git-scm.com/) and [GitHub](https://github.com/) — you should be familiar with what Git and GitHub are, including basic concepts such as repository, commit, and version control
+- Working knowledge of [Git](https://git-scm.com/) and [GitHub](https://github.com/) — you should have an understanding of the purpose and functionality of Git and GitHub
 
 Please note that, this documentation only provides instructions for setting up Visual Studio Code as an integrated development environment for your projects. It does not cover any knowledge related to programming languages.
 
@@ -29,11 +29,11 @@ Before starting, please make sure you have the following:
 
 
 ## Content Overview
-By reading the main section, you will learn to: 
+By reading this documentation, you will learn to: 
 
-- Customize keyboard shortcuts
 - Configure GitHub repositories
 - Install, enable, and disable third-party extensions
+- Customize keyboard shortcuts
 
 
 ## Typographical Conventions
@@ -46,18 +46,19 @@ This documentation uses the following typographical conventions:
 | [ ]          | Denotes buttons and menu items                         | [Install]                                 |
 | →            | Seperates a series of buttons or menu items            | [File] → [Save]                           |
 
-## Notes and Warning Messages
+## Additional Notes
 
-In this documentation, key message blocks will be highlighted to emphasize important information.
+This documentation employs the following message blocks to highlight key information and provide additional context.
+
 
 !!! warning "Warning"
-    Highlights actions that require careful attention
+    Alerts readers to unexpected issues
 
 !!! tip "Tip"
-    Offers helpful suggestions or best practices
+    Provides helpful suggestions or recommend best practices
 
 !!! important "Important"
-    Emphasizes key instructions
+    Highlights important instructions
 
 !!! success "Success"
-    Confirms a successful action
+    Confirms successful completion of instructions
