@@ -22,13 +22,13 @@
 3. <b>Select</b> an extension to open its information page.
 
     <figure markdown="span">
-    ![Image title](Assets/img2.3.gif){ width="700" }
+    ![Image title](Assets/img2.3.gif){ width="750" }
     </figure>
 
 4. <b>Click</b> the [Install] button under the extension name. Once the [Install] button changes to [Uninstall], the extension has been successfully installed.
 
     <figure markdown="span">
-    ![Image title](Assets/img2.4.gif){ width="350" }
+    ![Image title](Assets/img2.4.gif){ width="600" }
     </figure>
 
 !!! tip "Tip"
@@ -47,13 +47,13 @@
 3. <b>Select</b> the [Disable], [Enable] or [Uninstall] button.
 
     <figure markdown="span">
-    ![Image title](Assets/img2.6.gif){ width="350" }
+    ![Image title](Assets/img2.6.gif){ width="600" }
     </figure>
 
 4. If you are disabling an extension, you must <b>click</b> [Restart Extensions] after clicking on the [Disable] button to apply the change.
 
     <figure markdown="span">
-    ![Image title](Assets/img2.7.gif){ width="350" }
+    ![Image title](Assets/img2.7.gif){ width="600" }
     </figure>
 
 ## Modify Extension Settings 
@@ -72,7 +72,7 @@
 3. <b>Select</b> [Settings] to open the setting tab for that extension.
 
     <figure markdown="span">
-    ![Image title](Assets/img2.9.gif){ width="350" }
+    ![Image title](Assets/img2.9.gif){ width="750" }
     </figure>
 
 4. <b>Change</b> the settings as needed to tailor to your preference.

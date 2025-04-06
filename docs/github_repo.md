@@ -16,7 +16,7 @@ Visual Studio Code provides a development environment which allows developers to
     By launching VS Code, you will land on the Welcome tab unless you have opened a project. If you are directed to an existing project, close it by clicking [File] → [Close Folder] to return to the Welcome tab.
 
 
-2. **Paste** or **enter** the GitHub repository URL into the text bar.
+2. **Enter** or **paste** the GitHub repository URL into the searchbar.
 
     <figure markdown="span">
     ![Image title](Assets/img1.2.gif){ width="650" }
@@ -28,7 +28,7 @@ Visual Studio Code provides a development environment which allows developers to
     ![Image title](Assets/img1.3.gif){ width="650" }
     </figure>
 
-4. **Choose** a local <i>direcotory</i> to save the repository to.
+4. **Choose** a local <i>direcotory</i>, i.e. a destination folder, to save the remote repository to.
 
     <figure markdown="span">
     ![Image title](Assets/img1.4.gif){ width="500" }
@@ -40,7 +40,7 @@ Visual Studio Code provides a development environment which allows developers to
     ![Image title](Assets/img1.5.gif){ width="500" }
     </figure>
 
-6. Once the cloning is successful, a pop-up window will appear. **Click** [Open] to open the downloaded repository in VS Code.
+6. Once the cloning is done, a pop-up window will appear. **Click** [Open] to open the downloaded repository in VS Code.
 
     <figure markdown="span">
     ![Image title](Assets/img1.6.gif){ width="300" }
@@ -70,14 +70,11 @@ Visual Studio Code provides a development environment which allows developers to
     ![Image title](Assets/img1.9.gif){ width="350" }
     </figure
 
-4. When ready, **click** [⋯] → [Push] on the Source Control panel to push your changes to the remote GitHub repository.
+4. When ready, **click** [⋯] → [Push] on the Source Control panel to push your changes to the remote GitHub repository. The [⋯] button appears only when you hover over the Source Control panel.
 
-!!! tip "Tip"
-    The [⋯] button appears only when you hover over the Source Control panel.
-
-<figure markdown="span">
-![Image title](Assets/img1.10.gif){ width="550" }
-</figure>
+    <figure markdown="span">
+    ![Image title](Assets/img1.10.gif){ width="550" }
+    </figure>
 
 !!! success "Success"
     Congratulations! You can now begin collaborating with other developers in VS Code by cloning a GitHub repository to and pushing your progress from your local computer.
