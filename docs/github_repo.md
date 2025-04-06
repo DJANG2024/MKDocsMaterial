@@ -9,7 +9,7 @@ Visual Studio Code provides a development environment which allows developers to
 1. **Click** [Clone Git Repository] on the Welcome tab.
 
     <figure markdown="span">
-    ![image](Assets/img1.1.gif "[Clone Git Repository] button") { width="400"}
+    ![[Clone Git Repository] button](Assets/img1.1.gif) { width="400"}
     </figure>
 
     !!! tip "Tip"
