@@ -25,7 +25,7 @@ Visual Studio Code provides a development environment which allows developers to
 
 ![image](Assets/img1.4.gif "Select your desired destination")
 
-5. **Click** [Select as Repository Destination] buttoon to begin the cloning process.
+5. **Click** [Select as Repository Destination] button to begin the cloning process.
 
 ![image](Assets/img1.5.gif "[Select as Repository Destination] button")
 

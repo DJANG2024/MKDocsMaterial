@@ -1,7 +1,7 @@
 # Introduction
 This documentation is a step-by-step guide for setting up [Visual Studio Code](https://code.visualstudio.com/) as an <i>integrated development environment</i> for collaborative projects. Tailored specifically for macOS users, it explains how to access shared repositories on GitHub to collaborate with other developers, and also how to configure keyboard shortcuts and third-party extensions to facilitate program writing and enhance productivity.
 
-> [Visual Studio Code](https://code.visualstudio.com/) is an integrated development environment (IDE) designed by Microsoft for developers to write, edit and debug code. It supports a wide range of programming languages, including JavaScript, Java, Python, and more.
+> [Visual Studio Code](https://code.visualstudio.com/) is an <i>integrated development environment</i> (IDE) designed by Microsoft for developers to write, edit and debug code. It supports a wide range of programming languages, including JavaScript, Java, Python, and more.
 
 
 ## Intended Users
@@ -37,7 +37,7 @@ By reading this documentation, you will learn to:
 
 
 ## Typographical Conventions
-This documentation uses the following typographical conventions:
+This section outlines the styling and formatting that will be used throughout the documentation to help increase readability and highlight specific actions or elements.
 
 | Convention   |Explanation                                             | Example                                   |
 | ------------ |--------------------------------------------------------| ----------------------------------------- |
