@@ -8,32 +8,30 @@ Visual Studio Code provides a development environment which allows developers to
 
 1. **Click** [Clone Git Repository] on the Welcome tab.
 
-    <figure markdown="span">
-    ![[Clone Git Repository] button](Assets/img1.1.gif) { width="400"}
-    </figure>
+![Image title](Assets/img1.1.gif){ width="400" }
 
     !!! tip "Tip"
         By launching VS Code, you will land on the Welcome tab unless you have opened a project. If you are directed to an existing project, close it by clicking [File] → [Close Folder] to return to the Welcome tab.
 
 2. **Paste** or **enter** the GitHub repository URL into the text bar.
 
-![image](Assets/img1.2.gif "Input GitHub repository URL")
+![Image title](Assets/img1.2.gif){ width="550" }
 
 3. **Select** [Clone from URL] from the dropdown menu.
 
-![image](Assets/img1.3.gif "[Clone from URL] menu item")
+![Image title](Assets/img1.3.gif){ width="550" }
 
 4. **Choose** a local <i>direcotory</i> to save the repository to.
 
-![image](Assets/img1.4.gif "Select your desired destination")
+![Image title](Assets/img1.4.gif){ width="500" }
 
 5. **Click** [Select as Repository Destination] button to begin the cloning process.
 
-![image](Assets/img1.5.gif "[Select as Repository Destination] button")
+![Image title](Assets/img1.5.gif){ width="500" }
 
 6. Once the cloning is successful, a pop-up window will appear. **Click** [Open] to open the downloaded repository in VS Code.
 
-![image](Assets/img1.6.gif "[Open] button")
+![Image title](Assets/img1.6.gif){ width="400" }
 
 
 ## Push to a GitHub Repository from Local Computer
@@ -43,15 +41,22 @@ Visual Studio Code provides a development environment which allows developers to
 
 1. **Click** [View] → [Source Control] to open the Source Control panel.
 
+![Image title](Assets/img1.7.gif){ width="550" }
+
 2. **Enter** your <i>commit message</i> into the textbox. 
 
+![Image title](Assets/img1.8.gif){ width="400" }
+
 3. **Click** [✔ Commit] to commit your edits.
+
+![Image title](Assets/img1.9.gif){ width="400" }
 
 4. When ready, **click** [⋯] → [Push] on the Source Control panel to push your changes to the remote GitHub repository.
 
 !!! tip "Tip"
     The [⋯] button appears only when you hover over the Source Control panel.
 
+![Image title](Assets/img1.10.gif){ width="550" }
 
 !!! success "Success"
     Congratulations! You can now begin collaborating with other developers in VS Code by cloning a GitHub repository to and pushing your progress from your local computer.
