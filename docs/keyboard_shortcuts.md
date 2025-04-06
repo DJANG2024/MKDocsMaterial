@@ -4,7 +4,9 @@ Visual Studio Code provides the flexibility of customizing keyboard shortcuts, a
 
 1. **Click** [Code] → [Settings] → [Keyboard Shortcuts] to open the Keyboard Shortcuts tab.
 
-<img src="/docs/Assets/img3.1.gif" width="50%"/>
+<figure markdown="span">
+![Image title](Assets/img3.1.gif){ width="400" }
+</figure>
 
 2. **Type** the action you would like to customize into the search bar (e.g. "Save", "Open File", etc).
  

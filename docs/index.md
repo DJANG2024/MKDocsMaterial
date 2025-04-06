@@ -48,17 +48,17 @@ This section outlines the styling and formatting that will be used throughout th
 
 ## Additional Notes
 
-This documentation employs the following message blocks to highlight key information and provide additional context.
+This documentation employs the following message blocks to emphasize key information and provide additional context.
 
 
 !!! warning "Warning"
-    Alerts readers to unexpected issues
+    Alerts readers to potential issues that require extra caution.
 
 !!! tip "Tip"
-    Provides helpful suggestions or recommend best practices
+    Offers helpful suggestions or recommends best practices.
 
 !!! important "Important"
-    Highlights important instructions
+    Highlights critical information that require attention.
 
 !!! success "Success"
-    Confirms successful completion of instructions
+    Confirms successful completion of the instructions.
