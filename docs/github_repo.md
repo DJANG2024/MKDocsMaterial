@@ -15,6 +15,7 @@ Visual Studio Code provides a development environment which allows developers to
 !!! tip "Tip"
     By launching VS Code, you will land on the Welcome tab unless you have opened a project. If you are directed to an existing project, close it by clicking [File] → [Close Folder] to return to the Welcome tab.
 
+
 2. **Paste** or **enter** the GitHub repository URL into the text bar.
 
     <figure markdown="span">
@@ -49,7 +50,7 @@ Visual Studio Code provides a development environment which allows developers to
 ## Push to a GitHub Repository from Local Computer
 
 !!! warning "Warning"
-    Your <i>commits</i> will be visible to anyone with access to the shared repository. Once pushed, your commits cannot be withdrawn or undone.
+    Pushing to a GitHub repository makes your <i>commits</i> visible to anyone with access to the shared repository. Once pushed, your commits cannot be withdrawn or undone.
 
 1. **Click** [View] → [Source Control] to open the Source Control panel.
 

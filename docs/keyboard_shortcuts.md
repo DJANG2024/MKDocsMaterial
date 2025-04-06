@@ -40,13 +40,24 @@ Visual Studio Code provides the flexibility of customizing keyboard shortcuts, a
 !!! important "Important"
     Changing keyboard shortcuts may sometimes causes key conflicts where more than one action is assigned to the same key combination. If your keyboard shortcuts are malfunctioning, following this section to solve the issue.
 
-1. **Select** [Code] → [Settings] → [Keyboard Shortcuts].
+1. **Select** [Code] → [Settings] → [Keyboard Shortcuts] to open the Keyboard Shortcuts tab.
 
-2. **Click** [keyboard] icon on the right-hand side of the search bar.
+2. **Type** the action that is malfunctioning into the search bar.
 
-3. **Right-click** under the Keybinding column to open a menu.
+!!! tip "Tip"
+    You can also click on the [Keyboard] symbol on the search bar to search by key combinations instead of actions.
+
+3. **Right-click** the malfunctioning action to open a menu.
+
+    <figure markdown="span">
+    ![Image title](Assets/img3.6.gif){ width="700" }
+    </figure>
 
 4. **Click** [Show Same Keybindings] to generate a list of all actions binded to the same hotkey.
+
+    <figure markdown="span">
+    ![Image title](Assets/img3.7.gif){ width="700" }
+    </figure>
 
 5. **Review** the list to ensure your chosen hotkey is not already in use by other action. If there is a key conflict, **follow** the steps from the previous section to remove or change the conflicting keybinding.
 
