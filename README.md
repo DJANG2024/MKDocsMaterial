@@ -32,7 +32,7 @@ This guide is written in Markdown language and uses Material for MkDocs to autom
 
 - MkDocs: A tool used to create a static website for the documentation, which allowed us to style and customize our layouts and implement navigations menus, admonitions and more. 
 
-- Live Previews: During the development stage, we could see live previews of the changes being made to the documentation which helped . 
+- Live Previews: During the development stage, we could see live previews of the changes being made to the documentation which helped speed up our workflow. 
 
 ### Visual Studio Code
 For this guide, we used Visual Studio Code as the editor of choice to collaborate on this project. Visual Studio Code is a powerful editor that we hope to help others learn so that they can leverage it to increase their own productivity and collaboration. 
